@@ -1,5 +1,14 @@
 # GLITCH SURVIVOR: FINAL PROTOCOL
 
+<!-- splarg-storefront:start -->
+<p align="center">
+  <strong><a href="https://splarg.itch.io/glitch-survivor-final-protocol">▶ Play in browser on itch.io</a></strong>
+</p>
+<p align="center">
+  <a href="https://splarg.itch.io/glitch-survivor-final-protocol">Screenshots & current public release</a> · <a href="https://splarg.com/">splarg.com</a>
+</p>
+<!-- splarg-storefront:end -->
+
 A neon/CRT-styled browser survival shooter by **Splarg**.
 
 Move, aim and fire independently while enemies close in from the arena. A run is measured by **score, kills and survival time**, with the best score kept locally in the browser.
